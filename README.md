@@ -27,7 +27,7 @@ With a strong foundation in **Statistics** and over 2 years of professional expe
 
 | Personal Stats | Top Languages |
 | --- | --- |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusra-sakti-wardhana&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" width="400"/> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusra-sakti-wardhana&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="350"/> |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxDelta10&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" width="400"/> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxDelta10&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" width="350"/> |
 
 ---
 
