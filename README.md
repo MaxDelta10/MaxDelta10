@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yusra Sakti Wardhana 👋
 
 ### 🚀 Analytics Engineer & Data Scientist 
 With a strong foundation in **Statistics** and over 2 years of professional experience, I bridge the gap between comprehensive data engineering, advanced AI analytics, and modern frontend visualization. I specialize in building robust data pipelines, deploying LLM solutions, and architecting interactive enterprise dashboards.
