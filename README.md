@@ -1,23 +1,35 @@
 # Hi there, I'm Yusra Sakti Wardhana 👋
 
-### 🚀 Analytics Engineer & Data Scientist 
-With a strong foundation in **Statistics** and over 2 years of professional experience, I bridge the gap between comprehensive data engineering, advanced AI analytics, and modern frontend visualization. I specialize in building robust data pipelines, deploying LLM solutions, and architecting interactive enterprise dashboards.
+### 🚀 Data Analyst & Data Scientist
+
+With a strong foundation in **Statistics** and over 3 years of professional experience, I specialize in SQL-driven data modeling, comprehensive Exploratory Data Analysis (EDA), and applied AI/LLM-powered analytics. I transform massive news and social media records into actionable corporate insights, and drive cross-functional collaboration to align analytical approaches with business needs.
 
 ---
 
 ### 🛠️ Technical Skills
 
-* **Data & Core Engineering:** SQL (PostgreSQL/MySQL), Elasticsearch, Apache Kafka, Qdrant Vector DB, AWS S3, ETL/ELT Pipelines
-* **Data Science & AI:** Python, Large Language Models (LLMs), Sentiment Analysis, Data Mining, Cross-Analytic Modeling, Scikit-Learn
-* **Frontend & UI/UX:** React, HTML5/CSS3, Tailwind CSS, ECharts (Interactive Dashboard Engineering), UI/UX Mockup Prototyping
-* **Testing & Workflow:** End-to-End (E2E) Testing, Web/Mobile Bug Tracking, QA Management, API Handlers & Standard Pagination, Git
+* **Core Querying & Databases:** SQL (PostgreSQL/MySQL), Elasticsearch (Querying & Indexing), Complex Query Design (CTEs, Joins), Advanced Data Extraction
+* **Programming & Development:** Python, SQL, HTML, CSS, REST API Development
+* **Data Automation & Engineering:** End-to-End Ingestion Pipelines, Apache Kafka (Data Streaming), Real-Time Alerting Systems, Qdrant Vector DB, AWS S3, Data Cleansing
+* **AI & LLM:** LLM Integration, AI-Assisted Development, Prompt Engineering, NLP
+* **Data Visualization & Tools:** Internal Dashboard Builders, SQL-based Visual Analytics, Operational Reporting, Microsoft Excel
+* **Soft Skills:** Cross-functional Collaboration, Stakeholder Management, Analytical Thinking, Ownership & Quality Orientation
 
 ---
 
 ### 📊 What I Do
-* **Data Infrastructure:** Architecting AI-driven processing environments and extracting high-volume log/transactional data to supply optimized datasets.
-* **Advanced Analytics:** Engineering cross-analytic pipelines using Python and LLMs for complex sentiment analysis and tracking volatile data trends.
-* **Data Visualization:** Designing, developing, and deploying 50+ interactive media-monitoring dashboards and implementing standardization systems (like Fusion Design System).
+
+* **Exploratory Data Analysis:** Performing end-to-end EDA, data profiling, and standardization on multi-million row historical datasets to identify pattern anomalies and deliver reliable data warehouse assets.
+* **AI-Powered Analytics:** Applying LLM agents (OpenRouter/GPT) and NLP techniques for sentiment categorization, topic modeling, and public engagement prediction on large-scale news and social media data.
+* **Data Visualization & Reporting:** Designing, developing, and deploying 50+ interactive media-monitoring dashboards for 10+ corporate and government clients, translating raw metrics into actionable business insights.
+
+---
+
+### 📂 Featured Projects
+
+* **[Steam Local Video Game Reviews: Sentiment & Topic Modeling](https://github.com/MaxDelta10/naive-bayes-classifation-steam-game-reviews)** — Naive Bayes & LDA topic modeling on 10,000+ Indonesian Steam reviews (81% accuracy), served via a Flask app with sub-millisecond prediction latency.
+* **[Custom Multi-Segment Client Dashboard](https://media-intelligence-portofolio.netlify.app/)** — Configurable, real-time analytics dashboard platform on Elasticsearch, serving political, corporate, and government clients from a single reusable codebase.
+* **[AI-Powered Media Intelligence Pipeline](https://github.com/MaxDelta10/engine-news-socmed-alert-enrichment)** — High-throughput async pipeline (aiokafka, AsyncElasticsearch) with integrated LLM agents for sentiment analysis, containerized with Docker & Kubernetes.
 
 ---
 
@@ -33,6 +45,7 @@ With a strong foundation in **Statistics** and over 2 years of professional expe
 
 ### 🤝 Connect with Me
 
-* 💼 **LinkedIn:** linkedin.com/in/yusra-sakti-wardhana (https://linkedin.com/in/yusra-sakti-wardhana)
-* 📧 **Email:** sakti.wardhana10@gmail.com (mailto:sakti.wardhana10@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/yusra-sakti-wardhana](https://www.linkedin.com/in/yusra-sakti-wardhana)
+* 🧑‍💻 **Portfolio:** [maxdelta10.github.io/portofolio](https://maxdelta10.github.io/portofolio/)
+* 📧 **Email:** [sakti.wardhana10@gmail.com](mailto:sakti.wardhana10@gmail.com)
 * 📍 **Location:** Kota Tangerang Selatan, Banten, Indonesia
